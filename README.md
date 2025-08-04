@@ -4,6 +4,8 @@
 
 This project is an interactive Power BI report designed to analyze sales data from multiple perspectives — products, categories, customers, and geography. It features interactive dashboards and key metrics that provide valuable insights into sales performance and trends over time.
 
+![Sales Dashboard Preview](demo.png)
+
 ## Report Description
 
 ### 1. Key Performance Indicators (KPIs)  

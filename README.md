@@ -6,6 +6,8 @@ This project is an interactive Power BI report designed to analyze sales data fr
 
 ![Sales Dashboard Preview](demo.png)
 
+**Repository**: The image above and all related project files are hosted in this GitHub repository.
+
 ## Report Description
 
 ### 1. Key Performance Indicators (KPIs)  
@@ -72,4 +74,11 @@ This project is an interactive Power BI report designed to analyze sales data fr
 ## Goal  
 Create an interactive Power BI report to analyze sales data by products, product categories, customers, cities, and regions, as well as to track sales trends and evaluate the performance of different categories and regions.
 The use of filters and dynamic visualizations enables in-depth data exploration, making this tool useful for sales analysts, managers, and decision-makers.
+
+---
+
+## Technologies Used
+
+- **Power BI** – Data modeling, DAX, and report creation  
+- **GitHub** – Version control, documentation, and image hosting  
 

@@ -1,7 +1,8 @@
 # Sales Insight Dashboard
 
-## Goal  
-Create an interactive Power BI report to analyze sales data by products, product categories, customers, cities, and regions, as well as to track sales trends and evaluate the performance of different categories and regions.
+## Project Description
+
+This project is an interactive Power BI report designed to analyze sales data from multiple perspectives — products, categories, customers, and geography. It features interactive dashboards and key metrics that provide valuable insights into sales performance and trends over time.
 
 ## Report Description
 
@@ -65,9 +66,8 @@ Create an interactive Power BI report to analyze sales data by products, product
 
 ---
 
-## Project Description
 
-This project is an interactive Power BI report designed to analyze sales data from multiple perspectives — products, categories, customers, and geography. It features interactive dashboards and key metrics that provide valuable insights into sales performance and trends over time.
-
+## Goal  
+Create an interactive Power BI report to analyze sales data by products, product categories, customers, cities, and regions, as well as to track sales trends and evaluate the performance of different categories and regions.
 The use of filters and dynamic visualizations enables in-depth data exploration, making this tool useful for sales analysts, managers, and decision-makers.
 
